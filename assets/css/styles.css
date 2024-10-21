@@ -33,7 +33,7 @@
     --normal-font-size: 1rem;
     --smaller-font-size: .875rem;
   }
-}
+} 
 
 /*===== BASE =====*/
 *, ::before, ::after {
@@ -42,8 +42,7 @@
 
 html {
   scroll-behavior: smooth;
-}
-
+} 
 body {
   margin: var(--header-height) 0 0 0;
   font-family: var(--body-font);
